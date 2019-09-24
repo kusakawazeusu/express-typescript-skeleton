@@ -1,5 +1,5 @@
 import express from "express";
-import morgan from "morgan"
+import morgan from "morgan";
 
 import indexRouter from './routes';
 
